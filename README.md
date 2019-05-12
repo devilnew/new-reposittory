@@ -1,1 +1,3 @@
-# new-reposittory
+# maven-project
+
+Simple Maven Project
